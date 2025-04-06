@@ -153,3 +153,10 @@ pip install -r requirements.txt
   
   Stops the screen capture thread, closes the serial connection, and destroys all OpenCV windows upon exiting the program.
   Execution: The main() function is called when the script is run, initiating the entire process.
+
+## Demo video
+  copy link below to watch the video:
+  ```bash
+  https://youtu.be/dFdSIGzteRk
+  ```
+  
